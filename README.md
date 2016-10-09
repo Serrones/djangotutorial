@@ -1,2 +1,2 @@
-# djangotutorial
+# DjangoTutorial
 Curso de Django NetCoders
