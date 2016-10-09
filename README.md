@@ -1,2 +1,2 @@
 # djangotutorial
-uso de Django no NetCoders
+Curso de Django NetCoders
